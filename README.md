@@ -39,7 +39,7 @@ main.exe mount -image image.png
 
 ## Credits
 
-Based on @Xelckis original image-fs project:
+Based on the original image-fs project by @Xelckis:
 https://github.com/Xelckis/image-fs
 
 ## License
