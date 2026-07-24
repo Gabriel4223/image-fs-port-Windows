@@ -31,6 +31,12 @@ The program reads the image structure, locates the end of the image data, and ac
 main.exe inject -image image.png -part fat32.img
 ```
 
+### Mount
+
+```cmd
+main.exe mount -image image.png
+```
+
 ## Credits
 
 Based on:
