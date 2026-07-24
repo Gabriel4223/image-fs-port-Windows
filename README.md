@@ -20,7 +20,7 @@ The program reads the image structure, locates the end of the image data, and ac
 ## Requirements
 
 - Windows 10/11
-- Go 1.25+ (for compiling)
+- Go 1.26+ (for compiling)
 - OSFMount
 
 ## Usage
